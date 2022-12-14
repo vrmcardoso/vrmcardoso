@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vrmcardoso@gmail.com**
 
-- ⚡ Fun fact **I have written several fantasy novels**
+- ⚡ Fun fact **I have published several fantasy novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
