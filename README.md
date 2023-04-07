@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasco</h1>
 <h3 align="center">A full stack web developer with a passion for books and food</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently developing my own app, Storian
 
 - 📫 How to reach me **vrmcardoso@gmail.com**
 
